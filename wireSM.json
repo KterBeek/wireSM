@@ -1,6 +1,6 @@
 {
-'endpoints': {
-'backendURL': "https://sm-https.wire.sm2",
+<endpoints>: {
+<backendURL>: "https://sm-https.wire.sm2",
 'backendWSURL': "https://sm-ssl.wire.sm2",
 "blackListURL": "https://clientblacklist.wire.sm2",
 "teamsURL": "https://sm-team.wire.sm2",
